@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "kaskus2727";
 $dbname = "db_sejati";
 
 // Membuat koneksi
